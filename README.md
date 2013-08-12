@@ -1,0 +1,2 @@
+# Aplikasi Penjualan Motor
+Tugas sekolah membuat aplikasi penjualan motor dengan menggunakan VB. Microsoft Visual Basic atau sering disingkat sebagai VB merupakan sebuah bahasa pemrograman yang menawarkan Integrated Development Environment (IDE) visual untuk membuat program perangkat lunak berbasis sistem operasi Microsoft Windows dengan menggunakan model pemrograman.
